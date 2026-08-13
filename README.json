@@ -1,0 +1,214 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Image"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "drydock",
+          "description": "Inspired by docker-bench-security with the ability to apply custom security profiles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-05-13T18:35:52Z",
+            "owner": "zuBux",
+            "repo": "drydock",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker bench security",
+          "description": "One of the first security linting utility for Docker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2015-07-30T23:13:27Z",
+            "owner": "diogomonica",
+            "repo": "docker-bench-security",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Actuary"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Build Management"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Networking/Runtime"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Security profiles"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SELinux is no Longer an Option"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Getting towards real sandbox containers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bubblewrap"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Exploits"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Proof of concept collection",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2019-08-12T18:11:46Z",
+            "owner": "dirtycow",
+            "repo": "dirtycow.github.io",
+            "stars": 3468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Proof of concept",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2016-11-07T22:35:42Z",
+            "owner": "scotty-c",
+            "repo": "dirty-cow-poc",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Dirty COW"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Honeypots"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Presentations/Posts/Articles"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Object Capabilities",
+          "description": "A language-level implementation of the capability based sandboxing methodology",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T19:38:02Z",
+            "owner": "dckc",
+            "repo": "awesome-ocap",
+            "stars": 411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linux port of Capsicum",
+          "description": "related to this LWN post",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2020-06-03T14:14:44Z",
+            "owner": "google",
+            "repo": "capsicum-linux",
+            "stars": 213
+          }
+        }
+      ],
+      "title": "Capability based sandboxing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Introduction to Container Security"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "GoDaddy's Production Kubernetes Story & Moving Target Defense in Container Envs"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Container Security Round Table"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Secure Substrate: Least Privilege Container Deployment"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "A Docker Image Walks Into a Notary"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "How Secure Are Your Docker Images?"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "The Golden Ticket- Docker and High Security Microservices - Black Belt Track"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Vulnerability Exploitation In Docker Container Environments"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Docker Security Best Practices"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Kubernetes Security Best Practices"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:59:11.071Z",
+    "original_repository": "kai5263499/awesome-container-security",
+    "original_repository_sha": "e29a1b9a57d03cf4c0c7e5f5f699854d3e059257",
+    "enhanced_repository": "enhansome/enhansome-container-security",
+    "enhanced_repository_description": null,
+    "title": "Awesome container security with stars"
+  }
+}
