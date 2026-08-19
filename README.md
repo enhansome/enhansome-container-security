@@ -1,6 +1,6 @@
 # Awesome container security with stars
 
-awesome-container-security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,658 | 🐛 102 | 📅 2026-08-18[![Travis](https://api.travis-ci.org/kai5263499/awesome-container-security.svg?branch=master)](https://travis-ci.org/kai5263499/awesome-container-security)
+awesome-container-security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,716 | 🐛 102 | 📅 2026-08-18[![Travis](https://api.travis-ci.org/kai5263499/awesome-container-security.svg?branch=master)](https://travis-ci.org/kai5263499/awesome-container-security)
 
 ***
 
@@ -137,7 +137,7 @@ A collection of container related security resources
 * [Project Atomic](https://www.projectatomic.io/) - RedHat's complete container solution with strong built-in security
 * [Docker Cloud](https://hub.docker.com) - Continuous scanning of images along with a trust mechanism
 
-- [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 127 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-19 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
+- [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 127 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-19 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 
 ***
 
@@ -145,7 +145,7 @@ A collection of container related security resources
 
 ***
 
-### [kubeadm](https://github.com/kubernetes/kubeadm) ⭐ 3,995 | 🐛 39 | 🌐 Go | 📅 2026-08-09
+### [kubeadm](https://github.com/kubernetes/kubeadm) ⭐ 3,996 | 🐛 39 | 🌐 Go | 📅 2026-08-09
 
 * Associating Amazon IAM roles to pods
 
@@ -157,7 +157,7 @@ A collection of container related security resources
 
 * Comprehensive guide from Google engineers on securing and isolating containers
 
-### [gVisor](https://github.com/google/gvisor) ⭐ 19,113 | 🐛 780 | 🌐 Go | 📅 2026-08-19
+### [gVisor](https://github.com/google/gvisor) ⭐ 19,117 | 🐛 780 | 🌐 Go | 📅 2026-08-19
 
 * User-space kernel designed to provide better isolation/sandboxing of containers
 
@@ -165,7 +165,7 @@ A collection of container related security resources
 
 * gVisor-isolated runtime that sandboxes AI agent tool-calls, with an approval gateway, encrypted task queues, and signed, attested builds
 
-### [Cilium](https://github.com/cilium/cilium) ⭐ 24,969 | 🐛 1,092 | 🌐 Go | 📅 2026-08-19
+### [Cilium](https://github.com/cilium/cilium) ⭐ 24,972 | 🐛 1,105 | 🌐 Go | 📅 2026-08-19
 
 * Network policy enforcement based on eBPF
 * [Cilium - Container Security and Networking Using BPF and XDP - Thomas Graf, Covalent](https://www.youtube.com/watch?v=CcGtDMm1SJA) - Presentation of Cilium by its creator
@@ -242,7 +242,7 @@ A collection of container related security resources
 
 ### [SELinux is no Longer an Option](https://www.youtube.com/watch?v=dtclmj3H7ZU)
 
-### [Firejail](https://github.com/netblue30/firejail) ⭐ 7,601 | 🐛 525 | 🌐 C | 📅 2026-08-17
+### [Firejail](https://github.com/netblue30/firejail) ⭐ 7,600 | 🐛 525 | 🌐 C | 📅 2026-08-17
 
 * Linux namespaces and seccomp-bpf sandbox. Also works with GUI apps
 
@@ -270,7 +270,7 @@ A collection of container related security resources
 
 ### [Getting towards real sandbox containers](https://blog.jessfraz.com/post/getting-towards-real-sandbox-containers/)
 
-### [Bubblewrap](https://github.com/containers/bubblewrap) ⭐ 8,417 | 🐛 191 | 🌐 C | 📅 2026-06-02
+### [Bubblewrap](https://github.com/containers/bubblewrap) ⭐ 8,421 | 🐛 191 | 🌐 C | 📅 2026-06-02
 
 ### [Subgraph](https://subgraph.com/)
 

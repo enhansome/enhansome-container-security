@@ -102,7 +102,7 @@
             "archived": false,
             "id": 80134675,
             "language": "Go",
-            "last_commit": "2026-08-19T01:59:32Z",
+            "last_commit": "2026-08-19T15:18:03Z",
             "owner": "podman-container-tools",
             "repo": "buildah",
             "stars": 8990
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-09T10:42:01Z",
             "owner": "kubernetes",
             "repo": "kubeadm",
-            "stars": 3995
+            "stars": 3996
           },
           "title": "kubeadm"
         },
@@ -282,7 +282,7 @@
             "last_commit": "2026-08-19T07:34:53Z",
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19113
+            "stars": 19117
           },
           "title": "gVisor"
         },
@@ -309,10 +309,10 @@
             "archived": false,
             "id": 48109239,
             "language": "Go",
-            "last_commit": "2026-08-19T11:53:29Z",
+            "last_commit": "2026-08-19T15:23:23Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 24969
+            "stars": 24972
           },
           "title": "Cilium"
         },
@@ -423,7 +423,7 @@
             "last_commit": "2026-08-17T17:13:26Z",
             "owner": "netblue30",
             "repo": "firejail",
-            "stars": 7601
+            "stars": 7600
           },
           "title": "Firejail"
         },
@@ -438,7 +438,7 @@
             "last_commit": "2026-06-02T18:05:07Z",
             "owner": "containers",
             "repo": "bubblewrap",
-            "stars": 8417
+            "stars": 8421
           },
           "title": "Bubblewrap"
         }
@@ -599,7 +599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:25:26.550Z",
+    "last_updated": "2026-08-19T15:39:42.885Z",
     "original_repository": "kai5263499/awesome-container-security",
     "original_repository_id": 106852574,
     "original_repository_sha": "e29a1b9a57d03cf4c0c7e5f5f699854d3e059257",
