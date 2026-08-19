@@ -1,211 +1,607 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 238662977,
+            "language": "TypeScript",
+            "last_commit": "2026-06-01T08:38:26Z",
+            "owner": "deepfence",
+            "repo": "ThreatMapper",
+            "stars": 5312
+          },
+          "title": "Deepfence Runtime Threat Mapper"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 73858181,
+            "language": "Python",
+            "last_commit": "2023-05-23T02:03:43Z",
+            "owner": "eliasgranderubio",
+            "repo": "dagda",
+            "stars": 1248
+          },
+          "title": "Dagda"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 31615206,
+            "language": "Shell",
+            "last_commit": "2016-12-02T19:05:00Z",
+            "owner": "OpenSCAP",
+            "repo": "container-compliance",
+            "stars": 242
+          },
+          "title": "OpenSCAP Container Compliance"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "drydock",
+              "description": "Inspired by docker-bench-security with the ability to apply custom security profiles",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44819795,
+                "language": "Python",
+                "last_commit": "2016-05-13T18:35:52Z",
+                "owner": "zuBux",
+                "repo": "drydock",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Docker bench security",
+              "description": "One of the first security linting utility for Docker",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39976292,
+                "language": "Shell",
+                "last_commit": "2015-07-30T23:13:27Z",
+                "owner": "diogomonica",
+                "repo": "docker-bench-security",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 51559459,
+            "language": "Go",
+            "last_commit": "2017-09-15T17:12:16Z",
+            "owner": "diogomonica",
+            "repo": "actuary",
+            "stars": 83
+          },
+          "title": "Actuary"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 80134675,
+            "language": "Go",
+            "last_commit": "2026-08-19T01:59:32Z",
+            "owner": "podman-container-tools",
+            "repo": "buildah",
+            "stars": 8990
+          },
+          "title": "Buildah"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 46932243,
+            "language": "Go",
+            "last_commit": "2026-06-03T14:29:49Z",
+            "owner": "linuxkit",
+            "repo": "linuxkit",
+            "stars": 8641
+          },
+          "title": "LinuxKit"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 99028287,
+            "language": "Go",
+            "last_commit": "2026-07-25T03:17:11Z",
+            "owner": "grafeas",
+            "repo": "grafeas",
+            "stars": 1571
+          },
+          "title": "Grafeas"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 25527782,
+            "language": "Python",
+            "last_commit": "2026-05-25T20:26:48Z",
+            "owner": "containerbuildsystem",
+            "repo": "atomic-reactor",
+            "stars": 139
+          },
+          "title": "Atomic Reactor"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 84960784,
+            "language": "Shell",
+            "last_commit": "2020-10-28T22:34:42Z",
+            "owner": "fatherlinux",
+            "repo": "container-internals-lab",
+            "stars": 63
+          },
+          "title": "Containers Internals Lab"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1090379351,
+            "language": "Go",
+            "last_commit": "2026-08-15T00:04:46Z",
+            "owner": "venslabs",
+            "repo": "vens",
+            "stars": 8
+          },
+          "title": "vens"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 90491509,
+            "language": "Shell",
+            "last_commit": "2017-05-07T12:19:18Z",
+            "owner": "tomwillfixit",
+            "repo": "alpine-cvecheck",
+            "stars": 11
+          },
+          "title": "Alpine CVE Check"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 34355034,
+            "language": "Go",
+            "last_commit": "2019-08-26T07:15:35Z",
+            "owner": "banyanops",
+            "repo": "collector",
+            "stars": 286
+          },
+          "title": "Banyan Collector: A framework to peek inside containers"
+        }
+      ],
       "title": "Image"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "drydock",
-          "description": "Inspired by docker-bench-security with the ability to apply custom security profiles",
           "children": [],
+          "description": null,
+          "node_type": "item",
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2016-05-13T18:35:52Z",
-            "owner": "zuBux",
-            "repo": "drydock",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Docker bench security",
-          "description": "One of the first security linting utility for Docker",
-          "children": [],
-          "repo_info": {
-            "archived": false,
+            "id": 1169269856,
             "language": "Shell",
-            "last_commit": "2015-07-30T23:13:27Z",
-            "owner": "diogomonica",
-            "repo": "docker-bench-security",
-            "stars": 22
-          }
+            "last_commit": "2026-08-13T05:54:20Z",
+            "owner": "HimitsuShell",
+            "repo": "HimitsuShell",
+            "stars": 9
+          },
+          "title": "HimitsuShell"
         }
       ],
-      "title": "Actuary"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Build Management"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 74496173,
+            "language": "Go",
+            "last_commit": "2026-08-09T10:42:01Z",
+            "owner": "kubernetes",
+            "repo": "kubeadm",
+            "stars": 3995
+          },
+          "title": "kubeadm"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 92945094,
+            "language": "Go",
+            "last_commit": "2024-03-05T11:39:28Z",
+            "owner": "uswitch",
+            "repo": "kiam",
+            "stars": 1143
+          },
+          "title": "kiam"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 131212638,
+            "language": "Go",
+            "last_commit": "2026-08-19T07:34:53Z",
+            "owner": "google",
+            "repo": "gvisor",
+            "stars": 19113
+          },
+          "title": "gVisor"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1271378942,
+            "language": "Go",
+            "last_commit": "2026-08-17T07:54:11Z",
+            "owner": "IronSecCo",
+            "repo": "ironclaw",
+            "stars": 19
+          },
+          "title": "IronClaw"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 48109239,
+            "language": "Go",
+            "last_commit": "2026-08-19T11:53:29Z",
+            "owner": "cilium",
+            "repo": "cilium",
+            "stars": 24969
+          },
+          "title": "Cilium"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 58301572,
+            "language": "HTML",
+            "last_commit": "2026-05-08T11:59:36Z",
+            "owner": "jtblin",
+            "repo": "kube2iam",
+            "stars": 2042
+          },
+          "title": "Kube2IAM"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1161232058,
+            "language": "Go",
+            "last_commit": "2026-05-06T07:36:28Z",
+            "owner": "dormstern",
+            "repo": "segspec",
+            "stars": 16
+          },
+          "title": "segspec"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 34659664,
+            "language": "Go",
+            "last_commit": "2023-07-07T03:37:03Z",
+            "owner": "weaveworks",
+            "repo": "scope",
+            "stars": 5909
+          },
+          "title": "Scope"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 122146348,
+            "language": "Python",
+            "last_commit": "2018-02-21T19:52:02Z",
+            "owner": "brthor",
+            "repo": "docker-layer2-icc",
+            "stars": 66
+          },
+          "title": "Docker Layer 2 ICC Bug"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 1157363528,
+            "language": "Go",
+            "last_commit": "2026-08-18T22:35:50Z",
+            "owner": "stacklok",
+            "repo": "brood-box",
+            "stars": 58
+          },
+          "title": "Brood Box"
+        }
+      ],
       "title": "Networking/Runtime"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 43922256,
+            "language": "Go",
+            "last_commit": "2020-09-17T20:10:45Z",
+            "owner": "genuinetools",
+            "repo": "bane",
+            "stars": 1230
+          },
+          "title": "bane"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 40418146,
+            "language": "C",
+            "last_commit": "2026-08-17T17:13:26Z",
+            "owner": "netblue30",
+            "repo": "firejail",
+            "stars": 7601
+          },
+          "title": "Firejail"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 51868010,
+            "language": "C",
+            "last_commit": "2026-06-02T18:05:07Z",
+            "owner": "containers",
+            "repo": "bubblewrap",
+            "stars": 8417
+          },
+          "title": "Bubblewrap"
+        }
+      ],
       "title": "Security profiles"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "SELinux is no Longer an Option"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Getting towards real sandbox containers"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Bubblewrap"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 894433723,
+            "language": "Python",
+            "last_commit": "2026-08-06T15:05:32Z",
+            "owner": "ASCIT31",
+            "repo": "Dark-Moon",
+            "stars": 847
+          },
+          "title": "Darkmoon"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 138687551,
+            "language": "Go",
+            "last_commit": "2024-10-15T19:20:49Z",
+            "owner": "ProfessionallyEvil",
+            "repo": "harpoon",
+            "stars": 145
+          },
+          "title": "harpoon"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Proof of concept collection",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71386498,
+                "language": "HTML",
+                "last_commit": "2019-08-12T18:11:46Z",
+                "owner": "dirtycow",
+                "repo": "dirtycow.github.io",
+                "stars": 3468
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Proof of concept",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73071885,
+                "language": "C",
+                "last_commit": "2016-11-07T22:35:42Z",
+                "owner": "scotty-c",
+                "repo": "dirty-cow-poc",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dirty COW"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 81254815,
+            "language": "Go",
+            "last_commit": "2026-08-19T07:42:28Z",
+            "owner": "cr0hn",
+            "repo": "dockerscan",
+            "stars": 1707
+          },
+          "title": "Docker Scan"
+        }
+      ],
       "title": "Exploits"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Proof of concept collection",
-          "description": null,
           "children": [],
+          "description": null,
+          "node_type": "item",
           "repo_info": {
             "archived": false,
-            "language": "HTML",
-            "last_commit": "2019-08-12T18:11:46Z",
-            "owner": "dirtycow",
-            "repo": "dirtycow.github.io",
-            "stars": 3468
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Proof of concept",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2016-11-07T22:35:42Z",
-            "owner": "scotty-c",
-            "repo": "dirty-cow-poc",
-            "stars": 14
-          }
+            "id": 53887472,
+            "language": "Shell",
+            "last_commit": "2016-06-08T10:13:27Z",
+            "owner": "xme",
+            "repo": "dshield-docker",
+            "stars": 16
+          },
+          "title": "DShield"
         }
       ],
-      "title": "Dirty COW"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Honeypots"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Presentations/Posts/Articles"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Awesome Object Capabilities",
-          "description": "A language-level implementation of the capability based sandboxing methodology",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-12T19:38:02Z",
-            "owner": "dckc",
-            "repo": "awesome-ocap",
-            "stars": 411
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Linux port of Capsicum",
-          "description": "related to this LWN post",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2020-06-03T14:14:44Z",
-            "owner": "google",
-            "repo": "capsicum-linux",
-            "stars": 213
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome Object Capabilities",
+              "description": "A language-level implementation of the capability based sandboxing methodology",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71009117,
+                "language": "JavaScript",
+                "last_commit": "2026-08-12T19:38:02Z",
+                "owner": "dckc",
+                "repo": "awesome-ocap",
+                "stars": 413
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Linux port of Capsicum",
+              "description": "related to this LWN post",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 13300800,
+                "language": "C",
+                "last_commit": "2020-06-03T14:14:44Z",
+                "owner": "google",
+                "repo": "capsicum-linux",
+                "stars": 213
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Capability based sandboxing"
         }
       ],
-      "title": "Capability based sandboxing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Introduction to Container Security"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GoDaddy's Production Kubernetes Story & Moving Target Defense in Container Envs"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Container Security Round Table"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Secure Substrate: Least Privilege Container Deployment"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "A Docker Image Walks Into a Notary"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "How Secure Are Your Docker Images?"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "The Golden Ticket- Docker and High Security Microservices - Black Belt Track"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Vulnerability Exploitation In Docker Container Environments"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Docker Security Best Practices"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Kubernetes Security Best Practices"
+      "title": "Presentations/Posts/Articles"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:40:00.867Z",
+    "last_updated": "2026-08-19T12:25:26.550Z",
     "original_repository": "kai5263499/awesome-container-security",
+    "original_repository_id": 106852574,
     "original_repository_sha": "e29a1b9a57d03cf4c0c7e5f5f699854d3e059257",
     "enhanced_repository": "enhansome/enhansome-container-security",
     "enhanced_repository_description": null,
