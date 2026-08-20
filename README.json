@@ -14,7 +14,7 @@
             "last_commit": "2026-06-01T08:38:26Z",
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5312
+            "stars": 5314
           },
           "title": "Deepfence Runtime Threat Mapper"
         },
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 80134675,
             "language": "Go",
-            "last_commit": "2026-08-19T15:18:03Z",
+            "last_commit": "2026-08-20T01:37:42Z",
             "owner": "podman-container-tools",
             "repo": "buildah",
-            "stars": 8990
+            "stars": 8991
           },
           "title": "Buildah"
         },
@@ -279,10 +279,10 @@
             "archived": false,
             "id": 131212638,
             "language": "Go",
-            "last_commit": "2026-08-19T07:34:53Z",
+            "last_commit": "2026-08-20T06:35:00Z",
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19117
+            "stars": 19126
           },
           "title": "gVisor"
         },
@@ -309,10 +309,10 @@
             "archived": false,
             "id": 48109239,
             "language": "Go",
-            "last_commit": "2026-08-19T15:23:23Z",
+            "last_commit": "2026-08-20T15:20:24Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 24972
+            "stars": 24981
           },
           "title": "Cilium"
         },
@@ -357,7 +357,7 @@
             "last_commit": "2023-07-07T03:37:03Z",
             "owner": "weaveworks",
             "repo": "scope",
-            "stars": 5909
+            "stars": 5908
           },
           "title": "Scope"
         },
@@ -384,10 +384,10 @@
             "archived": false,
             "id": 1157363528,
             "language": "Go",
-            "last_commit": "2026-08-18T22:35:50Z",
+            "last_commit": "2026-08-19T22:45:49Z",
             "owner": "stacklok",
             "repo": "brood-box",
-            "stars": 58
+            "stars": 59
           },
           "title": "Brood Box"
         }
@@ -420,10 +420,10 @@
             "archived": false,
             "id": 40418146,
             "language": "C",
-            "last_commit": "2026-08-17T17:13:26Z",
+            "last_commit": "2026-08-19T17:09:18Z",
             "owner": "netblue30",
             "repo": "firejail",
-            "stars": 7600
+            "stars": 7599
           },
           "title": "Firejail"
         },
@@ -438,7 +438,7 @@
             "last_commit": "2026-06-02T18:05:07Z",
             "owner": "containers",
             "repo": "bubblewrap",
-            "stars": 8421
+            "stars": 8432
           },
           "title": "Bubblewrap"
         }
@@ -456,10 +456,10 @@
             "archived": false,
             "id": 894433723,
             "language": "Python",
-            "last_commit": "2026-08-06T15:05:32Z",
+            "last_commit": "2026-08-20T08:53:07Z",
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 847
+            "stars": 851
           },
           "title": "Darkmoon"
         },
@@ -523,7 +523,7 @@
             "archived": false,
             "id": 81254815,
             "language": "Go",
-            "last_commit": "2026-08-19T07:42:28Z",
+            "last_commit": "2026-08-20T07:46:01Z",
             "owner": "cr0hn",
             "repo": "dockerscan",
             "stars": 1707
@@ -571,7 +571,7 @@
                 "last_commit": "2026-08-12T19:38:02Z",
                 "owner": "dckc",
                 "repo": "awesome-ocap",
-                "stars": 413
+                "stars": 414
               }
             },
             {
@@ -599,7 +599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:39:42.885Z",
+    "last_updated": "2026-08-20T15:42:29.354Z",
     "original_repository": "kai5263499/awesome-container-security",
     "original_repository_id": 106852574,
     "original_repository_sha": "e29a1b9a57d03cf4c0c7e5f5f699854d3e059257",
