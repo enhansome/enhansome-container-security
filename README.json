@@ -14,7 +14,7 @@
             "last_commit": "2026-06-01T08:38:26Z",
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5317
+            "stars": 5318
           },
           "title": "Deepfence Runtime Threat Mapper"
         },
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 80134675,
             "language": "Go",
-            "last_commit": "2026-08-21T02:38:17Z",
+            "last_commit": "2026-08-23T02:07:39Z",
             "owner": "podman-container-tools",
             "repo": "buildah",
-            "stars": 8992
+            "stars": 8991
           },
           "title": "Buildah"
         },
@@ -282,7 +282,7 @@
             "last_commit": "2026-08-22T03:52:46Z",
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19136
+            "stars": 19141
           },
           "title": "gVisor"
         },
@@ -309,10 +309,10 @@
             "archived": false,
             "id": 48109239,
             "language": "Go",
-            "last_commit": "2026-08-22T08:52:30Z",
+            "last_commit": "2026-08-23T12:17:39Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 24992
+            "stars": 24996
           },
           "title": "Cilium"
         },
@@ -423,7 +423,7 @@
             "last_commit": "2026-08-22T14:33:26Z",
             "owner": "netblue30",
             "repo": "firejail",
-            "stars": 7600
+            "stars": 7602
           },
           "title": "Firejail"
         },
@@ -438,7 +438,7 @@
             "last_commit": "2026-06-02T18:05:07Z",
             "owner": "containers",
             "repo": "bubblewrap",
-            "stars": 8452
+            "stars": 8457
           },
           "title": "Bubblewrap"
         }
@@ -456,10 +456,10 @@
             "archived": false,
             "id": 894433723,
             "language": "Python",
-            "last_commit": "2026-08-21T18:19:19Z",
+            "last_commit": "2026-08-23T15:30:11Z",
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 857
+            "stars": 862
           },
           "title": "Darkmoon"
         },
@@ -523,7 +523,7 @@
             "archived": false,
             "id": 81254815,
             "language": "Go",
-            "last_commit": "2026-08-22T07:28:47Z",
+            "last_commit": "2026-08-23T07:29:54Z",
             "owner": "cr0hn",
             "repo": "dockerscan",
             "stars": 1710
@@ -599,7 +599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T15:29:58.307Z",
+    "last_updated": "2026-08-23T15:31:04.246Z",
     "original_repository": "kai5263499/awesome-container-security",
     "original_repository_id": 106852574,
     "original_repository_sha": "e29a1b9a57d03cf4c0c7e5f5f699854d3e059257",
