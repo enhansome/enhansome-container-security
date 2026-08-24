@@ -34,6 +34,28 @@
           "title": "Dagda"
         },
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 131608800,
+                "language": "Go",
+                "last_commit": "2023-04-23T10:19:38Z",
+                "owner": "target",
+                "repo": "portauthority",
+                "stars": 151
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Port Authority Open Source Security Scanner for Docker"
+        },
+        {
           "children": [],
           "description": null,
           "node_type": "item",
@@ -102,10 +124,10 @@
             "archived": false,
             "id": 80134675,
             "language": "Go",
-            "last_commit": "2026-08-23T02:07:39Z",
+            "last_commit": "2026-08-24T13:31:08Z",
             "owner": "podman-container-tools",
             "repo": "buildah",
-            "stars": 8991
+            "stars": 8993
           },
           "title": "Buildah"
         },
@@ -170,6 +192,28 @@
           "title": "Containers Internals Lab"
         },
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "anchore-cli",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 102535562,
+                "language": "Python",
+                "last_commit": "2024-07-10T17:45:18Z",
+                "owner": "anchore",
+                "repo": "anchore-cli",
+                "stars": 112
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Anchore"
+        },
+        {
           "children": [],
           "description": null,
           "node_type": "item",
@@ -231,9 +275,31 @@
             "last_commit": "2026-08-13T05:54:20Z",
             "owner": "HimitsuShell",
             "repo": "HimitsuShell",
-            "stars": 9
+            "stars": 8
           },
           "title": "HimitsuShell"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KubeStellar Console",
+              "description": "Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1135473716,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:26:46Z",
+                "owner": "kubestellar",
+                "repo": "console",
+                "stars": 127
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Commercial solutions"
         }
       ],
       "title": "Build Management"
@@ -279,10 +345,10 @@
             "archived": false,
             "id": 131212638,
             "language": "Go",
-            "last_commit": "2026-08-22T03:52:46Z",
+            "last_commit": "2026-08-24T06:16:16Z",
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19141
+            "stars": 19146
           },
           "title": "gVisor"
         },
@@ -294,7 +360,7 @@
             "archived": false,
             "id": 1271378942,
             "language": "Go",
-            "last_commit": "2026-08-17T07:54:11Z",
+            "last_commit": "2026-08-24T07:55:49Z",
             "owner": "IronSecCo",
             "repo": "ironclaw",
             "stars": 19
@@ -309,12 +375,34 @@
             "archived": false,
             "id": 48109239,
             "language": "Go",
-            "last_commit": "2026-08-23T12:17:39Z",
+            "last_commit": "2026-08-24T14:25:20Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 24996
+            "stars": 25003
           },
           "title": "Cilium"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Security enforcement for Flannel",
+              "description": "SDN",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21704134,
+                "language": "Go",
+                "last_commit": "2026-08-24T08:38:16Z",
+                "owner": "flannel-io",
+                "repo": "flannel",
+                "stars": 9522
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Calico"
         },
         {
           "children": [],
@@ -345,6 +433,28 @@
             "stars": 16
           },
           "title": "segspec"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Project",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46245975,
+                "language": "Shell",
+                "last_commit": "2019-01-21T13:04:36Z",
+                "owner": "romana",
+                "repo": "romana",
+                "stars": 248
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Romana"
         },
         {
           "children": [],
@@ -387,7 +497,7 @@
             "last_commit": "2026-08-21T17:45:49Z",
             "owner": "stacklok",
             "repo": "brood-box",
-            "stars": 60
+            "stars": 61
           },
           "title": "Brood Box"
         }
@@ -413,6 +523,28 @@
           "title": "bane"
         },
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The Container Coloring Book",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31715448,
+                "language": null,
+                "last_commit": "2016-06-28T11:50:54Z",
+                "owner": "fedoradesign",
+                "repo": "coloringbook-containers",
+                "stars": 72
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Container security as explained by the three pigs"
+        },
+        {
           "children": [],
           "description": null,
           "node_type": "item",
@@ -423,7 +555,7 @@
             "last_commit": "2026-08-22T14:33:26Z",
             "owner": "netblue30",
             "repo": "firejail",
-            "stars": 7602
+            "stars": 7603
           },
           "title": "Firejail"
         },
@@ -438,7 +570,7 @@
             "last_commit": "2026-06-02T18:05:07Z",
             "owner": "containers",
             "repo": "bubblewrap",
-            "stars": 8457
+            "stars": 8464
           },
           "title": "Bubblewrap"
         }
@@ -456,10 +588,10 @@
             "archived": false,
             "id": 894433723,
             "language": "Python",
-            "last_commit": "2026-08-23T15:30:11Z",
+            "last_commit": "2026-08-23T15:48:25Z",
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 862
+            "stars": 867
           },
           "title": "Darkmoon"
         },
@@ -492,7 +624,7 @@
                 "last_commit": "2019-08-12T18:11:46Z",
                 "owner": "dirtycow",
                 "repo": "dirtycow.github.io",
-                "stars": 3468
+                "stars": 3467
               }
             },
             {
@@ -523,7 +655,7 @@
             "archived": false,
             "id": 81254815,
             "language": "Go",
-            "last_commit": "2026-08-23T07:29:54Z",
+            "last_commit": "2026-08-24T08:04:41Z",
             "owner": "cr0hn",
             "repo": "dockerscan",
             "stars": 1710
@@ -599,7 +731,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:31:04.246Z",
+    "last_updated": "2026-08-24T14:29:03.317Z",
     "original_repository": "kai5263499/awesome-container-security",
     "original_repository_id": 106852574,
     "original_repository_sha": "e29a1b9a57d03cf4c0c7e5f5f699854d3e059257",
