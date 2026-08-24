@@ -290,7 +290,7 @@
                 "archived": false,
                 "id": 1135473716,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:26:46Z",
+                "last_commit": "2026-08-24T14:30:32Z",
                 "owner": "kubestellar",
                 "repo": "console",
                 "stars": 127
@@ -375,7 +375,7 @@
             "archived": false,
             "id": 48109239,
             "language": "Go",
-            "last_commit": "2026-08-24T14:25:20Z",
+            "last_commit": "2026-08-24T15:30:44Z",
             "owner": "cilium",
             "repo": "cilium",
             "stars": 25003
@@ -555,7 +555,7 @@
             "last_commit": "2026-08-22T14:33:26Z",
             "owner": "netblue30",
             "repo": "firejail",
-            "stars": 7603
+            "stars": 7604
           },
           "title": "Firejail"
         },
@@ -570,7 +570,7 @@
             "last_commit": "2026-06-02T18:05:07Z",
             "owner": "containers",
             "repo": "bubblewrap",
-            "stars": 8464
+            "stars": 8465
           },
           "title": "Bubblewrap"
         }
@@ -731,7 +731,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:29:03.317Z",
+    "last_updated": "2026-08-24T15:49:18.690Z",
     "original_repository": "kai5263499/awesome-container-security",
     "original_repository_id": 106852574,
     "original_repository_sha": "e29a1b9a57d03cf4c0c7e5f5f699854d3e059257",

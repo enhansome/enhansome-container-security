@@ -1,6 +1,6 @@
 # Awesome container security with stars
 
-awesome-container-security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,519 | 🐛 106 | 📅 2026-08-21[![Travis](https://api.travis-ci.org/kai5263499/awesome-container-security.svg?branch=master)](https://travis-ci.org/kai5263499/awesome-container-security)
+awesome-container-security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,534 | 🐛 106 | 📅 2026-08-21[![Travis](https://api.travis-ci.org/kai5263499/awesome-container-security.svg?branch=master)](https://travis-ci.org/kai5263499/awesome-container-security)
 
 ***
 
@@ -165,7 +165,7 @@ A collection of container related security resources
 
 * gVisor-isolated runtime that sandboxes AI agent tool-calls, with an approval gateway, encrypted task queues, and signed, attested builds
 
-### [Cilium](https://github.com/cilium/cilium) ⭐ 25,003 | 🐛 1,114 | 🌐 Go | 📅 2026-08-24
+### [Cilium](https://github.com/cilium/cilium) ⭐ 25,003 | 🐛 1,113 | 🌐 Go | 📅 2026-08-24
 
 * Network policy enforcement based on eBPF
 * [Cilium - Container Security and Networking Using BPF and XDP - Thomas Graf, Covalent](https://www.youtube.com/watch?v=CcGtDMm1SJA) - Presentation of Cilium by its creator
@@ -242,7 +242,7 @@ A collection of container related security resources
 
 ### [SELinux is no Longer an Option](https://www.youtube.com/watch?v=dtclmj3H7ZU)
 
-### [Firejail](https://github.com/netblue30/firejail) ⭐ 7,603 | 🐛 523 | 🌐 C | 📅 2026-08-22
+### [Firejail](https://github.com/netblue30/firejail) ⭐ 7,604 | 🐛 523 | 🌐 C | 📅 2026-08-22
 
 * Linux namespaces and seccomp-bpf sandbox. Also works with GUI apps
 
@@ -270,7 +270,7 @@ A collection of container related security resources
 
 ### [Getting towards real sandbox containers](https://blog.jessfraz.com/post/getting-towards-real-sandbox-containers/)
 
-### [Bubblewrap](https://github.com/containers/bubblewrap) ⭐ 8,464 | 🐛 190 | 🌐 C | 📅 2026-06-02
+### [Bubblewrap](https://github.com/containers/bubblewrap) ⭐ 8,465 | 🐛 190 | 🌐 C | 📅 2026-06-02
 
 ### [Subgraph](https://subgraph.com/)
 
