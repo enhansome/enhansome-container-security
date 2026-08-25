@@ -1,6 +1,6 @@
 # Awesome container security with stars
 
-awesome-container-security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,534 | 🐛 106 | 📅 2026-08-21[![Travis](https://api.travis-ci.org/kai5263499/awesome-container-security.svg?branch=master)](https://travis-ci.org/kai5263499/awesome-container-security)
+awesome-container-security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,706 | 🐛 106 | 📅 2026-08-21[![Travis](https://api.travis-ci.org/kai5263499/awesome-container-security.svg?branch=master)](https://travis-ci.org/kai5263499/awesome-container-security)
 
 ***
 
@@ -78,11 +78,11 @@ A collection of container related security resources
 
 * Packer builds Docker containers without the use of Dockerfiles. By not using Dockerfiles, Packer is able to provision containers with portable scripts or configuration management systems that are not tied to Docker in any way. It also has a simple mental model: you provision containers much the same way you provision a normal virtualized or dedicated server.
 
-### [LinuxKit](https://github.com/linuxkit/linuxkit) ⭐ 8,641 | 🐛 378 | 🌐 Go | 📅 2026-06-03
+### [LinuxKit](https://github.com/linuxkit/linuxkit) ⭐ 8,642 | 🐛 378 | 🌐 Go | 📅 2026-06-03
 
 * A toolkit for building custom minimal, immutable Linux distributions
 
-### [Grafeas](https://github.com/Grafeas/Grafeas) ⭐ 1,571 | 🐛 62 | 🌐 Go | 📅 2026-07-25
+### [Grafeas](https://github.com/Grafeas/Grafeas) ⭐ 1,572 | 🐛 62 | 🌐 Go | 📅 2026-07-25
 
 * An open-source API to audit and govern your software supply chain
 
@@ -128,7 +128,7 @@ A collection of container related security resources
 
 * Source to deployment framework. An alternative to Kubernetes and Spinnaker. I include it here because it implements a concept of trusted images and dependency management
 
-### [HimitsuShell](https://github.com/HimitsuShell/Himitsu) ⭐ 8 | 🐛 0 | 🌐 Shell | 📅 2026-08-13
+### [HimitsuShell](https://github.com/HimitsuShell/Himitsu) ⭐ 9 | 🐛 0 | 🌐 Shell | 📅 2026-08-13
 
 * Compiles shell scripts into obfuscated binaries to protect proprietary build logic and scripts inside container images. (alternative to shc)
 
@@ -137,7 +137,7 @@ A collection of container related security resources
 * [Project Atomic](https://www.projectatomic.io/) - RedHat's complete container solution with strong built-in security
 * [Docker Cloud](https://hub.docker.com) - Continuous scanning of images along with a trust mechanism
 
-- [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 127 | 🐛 46 | 🌐 TypeScript | 📅 2026-08-24 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
+- [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 127 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-25 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 
 ***
 
@@ -157,7 +157,7 @@ A collection of container related security resources
 
 * Comprehensive guide from Google engineers on securing and isolating containers
 
-### [gVisor](https://github.com/google/gvisor) ⭐ 19,146 | 🐛 813 | 🌐 Go | 📅 2026-08-24
+### [gVisor](https://github.com/google/gvisor) ⭐ 19,152 | 🐛 804 | 🌐 Go | 📅 2026-08-25
 
 * User-space kernel designed to provide better isolation/sandboxing of containers
 
@@ -165,7 +165,7 @@ A collection of container related security resources
 
 * gVisor-isolated runtime that sandboxes AI agent tool-calls, with an approval gateway, encrypted task queues, and signed, attested builds
 
-### [Cilium](https://github.com/cilium/cilium) ⭐ 25,003 | 🐛 1,113 | 🌐 Go | 📅 2026-08-24
+### [Cilium](https://github.com/cilium/cilium) ⭐ 25,004 | 🐛 1,108 | 🌐 Go | 📅 2026-08-24
 
 * Network policy enforcement based on eBPF
 * [Cilium - Container Security and Networking Using BPF and XDP - Thomas Graf, Covalent](https://www.youtube.com/watch?v=CcGtDMm1SJA) - Presentation of Cilium by its creator
@@ -176,7 +176,7 @@ A collection of container related security resources
 
 ### [Calico](https://www.projectcalico.org/)
 
-* Security enforcement for [Flannel](https://github.com/coreos/flannel) ⭐ 9,522 | 🐛 27 | 🌐 Go | 📅 2026-08-24 SDN
+* Security enforcement for [Flannel](https://github.com/coreos/flannel) ⭐ 9,523 | 🐛 27 | 🌐 Go | 📅 2026-08-24 SDN
 
 ### [Kube2IAM](https://github.com/jtblin/kube2iam) ⭐ 2,042 | 🐛 14 | 🌐 HTML | 📅 2026-05-08
 
@@ -211,7 +211,7 @@ A collection of container related security resources
 
 * Containers are able to send raw ethernet frames to other containers with inter-container communication disabled
 
-### [Brood Box](https://github.com/stacklok/brood-box) ⭐ 61 | 🐛 13 | 🌐 Go | 📅 2026-08-21
+### [Brood Box](https://github.com/stacklok/brood-box) ⭐ 61 | 🐛 13 | 🌐 Go | 📅 2026-08-24
 
 * CLI tool for running coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with workspace snapshot isolation, egress control, and MCP authorization
 
@@ -242,7 +242,7 @@ A collection of container related security resources
 
 ### [SELinux is no Longer an Option](https://www.youtube.com/watch?v=dtclmj3H7ZU)
 
-### [Firejail](https://github.com/netblue30/firejail) ⭐ 7,604 | 🐛 523 | 🌐 C | 📅 2026-08-22
+### [Firejail](https://github.com/netblue30/firejail) ⭐ 7,606 | 🐛 523 | 🌐 C | 📅 2026-08-22
 
 * Linux namespaces and seccomp-bpf sandbox. Also works with GUI apps
 
@@ -270,7 +270,7 @@ A collection of container related security resources
 
 ### [Getting towards real sandbox containers](https://blog.jessfraz.com/post/getting-towards-real-sandbox-containers/)
 
-### [Bubblewrap](https://github.com/containers/bubblewrap) ⭐ 8,465 | 🐛 190 | 🌐 C | 📅 2026-06-02
+### [Bubblewrap](https://github.com/containers/bubblewrap) ⭐ 8,465 | 🐛 191 | 🌐 C | 📅 2026-06-02
 
 ### [Subgraph](https://subgraph.com/)
 
@@ -290,7 +290,7 @@ A collection of container related security resources
 
 * From the intro: "We've been tracking an organized attack campaign that targets misconfigured open Docker Daemon API ports. This persistent campaign has been going on for months, with thousands of attempts taking place nearly on a daily basis."
 
-### [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 867 | 🐛 2 | 🌐 Python | 📅 2026-08-23
+### [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 869 | 🐛 2 | 🌐 Python | 📅 2026-08-23
 
 * Open-source autonomous AI pentest platform with offensive coverage of containers and Kubernetes, orchestrating 80+ tools with an evidence trail per finding
 
@@ -366,7 +366,7 @@ A collection of container related security resources
 
 ### [Capability based sandboxing](https://archive.fosdem.org/2016/schedule/event/capsicum/)
 
-* [Awesome Object Capabilities](https://github.com/dckc/awesome-ocap) ⭐ 413 | 🐛 41 | 🌐 JavaScript | 📅 2026-08-12 - A language-level implementation of the capability based sandboxing methodology
+* [Awesome Object Capabilities](https://github.com/dckc/awesome-ocap) ⭐ 414 | 🐛 41 | 🌐 JavaScript | 📅 2026-08-12 - A language-level implementation of the capability based sandboxing methodology
 * [Linux port of Capsicum](https://github.com/google/capsicum-linux) ⚠️ Archived related to this [LWN post](https://lwn.net/Articles/604287/)
 * The author presents the intreaging notion of applying the microservices approach to containers where you divide an application apart by capabilities
 
@@ -421,4 +421,4 @@ A collection of container related security resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
