@@ -124,7 +124,7 @@
             "archived": false,
             "id": 80134675,
             "language": "Go",
-            "last_commit": "2026-08-26T12:47:54Z",
+            "last_commit": "2026-08-26T23:48:47Z",
             "owner": "podman-container-tools",
             "repo": "buildah",
             "stars": 8995
@@ -221,7 +221,7 @@
             "archived": false,
             "id": 1090379351,
             "language": "Go",
-            "last_commit": "2026-08-21T21:38:14Z",
+            "last_commit": "2026-08-26T18:51:20Z",
             "owner": "venslabs",
             "repo": "vens",
             "stars": 8
@@ -290,7 +290,7 @@
                 "archived": false,
                 "id": 1135473716,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T15:30:41Z",
+                "last_commit": "2026-08-27T11:09:43Z",
                 "owner": "kubestellar",
                 "repo": "console",
                 "stars": 128
@@ -345,10 +345,10 @@
             "archived": false,
             "id": 131212638,
             "language": "Go",
-            "last_commit": "2026-08-26T16:05:31Z",
+            "last_commit": "2026-08-27T11:11:33Z",
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19160
+            "stars": 19168
           },
           "title": "gVisor"
         },
@@ -375,10 +375,10 @@
             "archived": false,
             "id": 48109239,
             "language": "Go",
-            "last_commit": "2026-08-26T16:19:07Z",
+            "last_commit": "2026-08-27T10:43:48Z",
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25012
+            "stars": 25017
           },
           "title": "Cilium"
         },
@@ -494,7 +494,7 @@
             "archived": false,
             "id": 1157363528,
             "language": "Go",
-            "last_commit": "2026-08-25T20:38:47Z",
+            "last_commit": "2026-08-26T19:58:49Z",
             "owner": "stacklok",
             "repo": "brood-box",
             "stars": 62
@@ -555,7 +555,7 @@
             "last_commit": "2026-08-22T14:33:26Z",
             "owner": "netblue30",
             "repo": "firejail",
-            "stars": 7611
+            "stars": 7612
           },
           "title": "Firejail"
         },
@@ -570,7 +570,7 @@
             "last_commit": "2026-08-26T13:38:54Z",
             "owner": "containers",
             "repo": "bubblewrap",
-            "stars": 8484
+            "stars": 8502
           },
           "title": "Bubblewrap"
         }
@@ -591,7 +591,7 @@
             "last_commit": "2026-08-25T10:02:54Z",
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 874
+            "stars": 875
           },
           "title": "Darkmoon"
         },
@@ -731,9 +731,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:24:58.503Z",
-    "original_repository": "kai5263499/awesome-container-security",
-    "original_repository_id": 106852574,
+    "last_updated": "2026-08-27T11:31:04.126Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 106852574,
+      "language": null,
+      "last_commit": "2026-07-28T13:57:01Z",
+      "owner": "kai5263499",
+      "repo": "awesome-container-security",
+      "stars": 250
+    },
     "original_repository_sha": "e29a1b9a57d03cf4c0c7e5f5f699854d3e059257",
     "enhanced_repository": "enhansome/enhansome-container-security",
     "enhanced_repository_description": null,
