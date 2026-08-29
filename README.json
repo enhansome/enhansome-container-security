@@ -9,12 +9,37 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Open Source Cloud Native Application Protection Platform (CNAPP)",
+            "homepage": "https://threatmapper.org",
             "id": 238662977,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-01T08:38:26Z",
+            "open_issues": 144,
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5318
+            "stars": 5318,
+            "topics": [
+              "cloud-native",
+              "cloudsecurity",
+              "cnapp",
+              "compliance",
+              "containers",
+              "cspm",
+              "cwpp",
+              "devops",
+              "devsecops",
+              "kubernetes",
+              "observability",
+              "registry-scanning",
+              "scanning-tool",
+              "secops",
+              "security-tools",
+              "threat-analysis",
+              "vulnerability-detection",
+              "vulnerability-management",
+              "vulnerability-scanners"
+            ]
           },
           "title": "Deepfence Runtime Threat Mapper",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -25,12 +50,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "a tool to perform static analysis of known vulnerabilities, trojans, viruses, malware & other malicious threats in docker images/containers and to monitor the docker daemon and running docker containers for detecting anomalous activities",
+            "homepage": null,
             "id": 73858181,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-23T02:03:43Z",
+            "open_issues": 25,
             "owner": "eliasgranderubio",
             "repo": "dagda",
-            "stars": 1248
+            "stars": 1248,
+            "topics": [
+              "detecting-anomalous-activities",
+              "docker",
+              "malware-detection",
+              "security",
+              "static-analysis",
+              "vulnerabilities"
+            ]
           },
           "title": "Dagda",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -44,12 +81,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "API that leverages Clair to scan Docker Registries and Kubernetes Clusters for vulnerabilities",
+                "homepage": null,
                 "id": 131608800,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2023-04-23T10:19:38Z",
+                "open_issues": 1,
                 "owner": "target",
                 "repo": "portauthority",
-                "stars": 151
+                "stars": 151,
+                "topics": [
+                  "clair",
+                  "docker-image",
+                  "golang",
+                  "kubernetes",
+                  "policy-engine",
+                  "vulnerability-assessment"
+                ]
               },
               "first_seen": "2026-08-28T23:59:34.028Z"
             }
@@ -64,12 +113,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Assessing compliance of a container",
+            "homepage": null,
             "id": 31615206,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2016-12-02T19:05:00Z",
+            "open_issues": 0,
             "owner": "OpenSCAP",
             "repo": "container-compliance",
-            "stars": 242
+            "stars": 242,
+            "topics": []
           },
           "title": "OpenSCAP Container Compliance",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -83,12 +137,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "drydock provides a flexible way of assessing the security of your Docker daemon configuration and containers using editable audit templates",
+                "homepage": null,
                 "id": 44819795,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2016-05-13T18:35:52Z",
+                "open_issues": 2,
                 "owner": "zuBux",
                 "repo": "drydock",
-                "stars": 66
+                "stars": 66,
+                "topics": [
+                  "audit",
+                  "docker",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T23:59:34.028Z"
             },
@@ -99,12 +162,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production. https://dockerbench.com",
+                "homepage": "https://dockerbench.com",
                 "id": 39976292,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2015-07-30T23:13:27Z",
+                "open_issues": 0,
                 "owner": "diogomonica",
                 "repo": "docker-bench-security",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:34.028Z"
             }
@@ -113,12 +181,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "An actuary is a business professional who analyzes the financial consequences of risk. ",
+            "homepage": null,
             "id": 51559459,
             "language": "Go",
+            "license": null,
             "last_commit": "2017-09-15T17:12:16Z",
+            "open_issues": 6,
             "owner": "diogomonica",
             "repo": "actuary",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "title": "Actuary",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -129,12 +202,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A tool that facilitates building OCI images.",
+            "homepage": "https://buildah.io",
             "id": 80134675,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T11:56:33Z",
+            "open_issues": 287,
             "owner": "podman-container-tools",
             "repo": "buildah",
-            "stars": 8999
+            "stars": 8999,
+            "topics": [
+              "container",
+              "container-image",
+              "containers",
+              "docker",
+              "oci",
+              "oci-image",
+              "podman"
+            ]
           },
           "title": "Buildah",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -145,12 +231,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A toolkit for building secure, portable and lean operating systems for containers",
+            "homepage": null,
             "id": 46932243,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-03T14:29:49Z",
+            "open_issues": 378,
             "owner": "linuxkit",
             "repo": "linuxkit",
-            "stars": 8643
+            "stars": 8643,
+            "topics": [
+              "cloud",
+              "containers",
+              "devops-tools",
+              "immutable-infrastructure",
+              "linux",
+              "linuxkit"
+            ]
           },
           "title": "LinuxKit",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -161,12 +259,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Artifact Metadata API",
+            "homepage": "http://grafeas.io",
             "id": 99028287,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-25T03:17:11Z",
+            "open_issues": 62,
             "owner": "grafeas",
             "repo": "grafeas",
-            "stars": 1572
+            "stars": 1572,
+            "topics": []
           },
           "title": "Grafeas",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -177,12 +280,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Simple python library for building docker images.",
+            "homepage": null,
             "id": 25527782,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-05-25T20:26:48Z",
+            "open_issues": 16,
             "owner": "containerbuildsystem",
             "repo": "atomic-reactor",
-            "stars": 139
+            "stars": 139,
+            "topics": []
           },
           "title": "Atomic Reactor",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -193,12 +301,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Container internals lab for Red Hat Summit",
+            "homepage": null,
             "id": 84960784,
             "language": "Shell",
+            "license": "LGPL-3.0",
             "last_commit": "2020-10-28T22:34:42Z",
+            "open_issues": 3,
             "owner": "fatherlinux",
             "repo": "container-internals-lab",
-            "stars": 63
+            "stars": 63,
+            "topics": []
           },
           "title": "Containers Internals Lab",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -212,12 +325,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Simple command-line client to the Anchore Engine service",
+                "homepage": null,
                 "id": 102535562,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-10T17:45:18Z",
+                "open_issues": 17,
                 "owner": "anchore",
                 "repo": "anchore-cli",
-                "stars": 112
+                "stars": 112,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:34.028Z"
             }
@@ -232,12 +350,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Prioritize vulnerabilities by real risk, not just CVSS",
+            "homepage": null,
             "id": 1090379351,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:33:53Z",
+            "open_issues": 15,
             "owner": "venslabs",
             "repo": "vens",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "cvss",
+              "grype",
+              "llm",
+              "owasp",
+              "risk-scoring",
+              "trivy",
+              "vex",
+              "vulnerability-management"
+            ]
           },
           "title": "vens",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -248,12 +380,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Code used to CVE check Alpine based images",
+            "homepage": null,
             "id": 90491509,
             "language": "Shell",
+            "license": null,
             "last_commit": "2017-05-07T12:19:18Z",
+            "open_issues": 0,
             "owner": "tomwillfixit",
             "repo": "alpine-cvecheck",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "title": "Alpine CVE Check",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -264,12 +401,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A framework for Static Analysis of Docker container images",
+            "homepage": null,
             "id": 34355034,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2019-08-26T07:15:35Z",
+            "open_issues": 9,
             "owner": "banyanops",
             "repo": "collector",
-            "stars": 286
+            "stars": 286,
+            "topics": []
           },
           "title": "Banyan Collector: A framework to peek inside containers",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -286,12 +428,31 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "shell script protector (obfuscation, embedded interpreter, DRM) - invisible to kernel tracing",
+            "homepage": "https://himitsushell.com/",
             "id": 1169269856,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-13T05:54:20Z",
+            "open_issues": 0,
             "owner": "HimitsuShell",
             "repo": "HimitsuShell",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "bash",
+              "compiler",
+              "drm",
+              "embedded-linux",
+              "encryption",
+              "iot",
+              "llvm",
+              "musl",
+              "obfuscator",
+              "protection",
+              "shc",
+              "shell",
+              "shell-script"
+            ]
           },
           "title": "HimitsuShell",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -305,12 +466,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "World's first fully integrated and fully Automated Kubernetes management and orchestration solution",
+                "homepage": "https://console.kubestellar.io",
                 "id": 1135473716,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T23:42:26Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:48:09Z",
+                "open_issues": 12,
                 "owner": "kubestellar",
                 "repo": "console",
-                "stars": 129
+                "stars": 129,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:34.028Z"
             }
@@ -331,12 +497,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Aggregator for issues filed against kubeadm",
+            "homepage": null,
             "id": 74496173,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-09T10:42:01Z",
+            "open_issues": 38,
             "owner": "kubernetes",
             "repo": "kubeadm",
-            "stars": 3998
+            "stars": 3998,
+            "topics": [
+              "best-practice",
+              "building-block",
+              "conformant",
+              "getting-started",
+              "installer",
+              "kubernetes"
+            ]
           },
           "title": "kubeadm",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -347,12 +525,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Integrate AWS IAM with Kubernetes",
+            "homepage": null,
             "id": 92945094,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-05T11:39:28Z",
+            "open_issues": 105,
             "owner": "uswitch",
             "repo": "kiam",
-            "stars": 1143
+            "stars": 1143,
+            "topics": [
+              "aws-iam",
+              "iam",
+              "iam-role",
+              "kubernetes"
+            ]
           },
           "title": "kiam",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -363,12 +551,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Application Kernel for Containers",
+            "homepage": "https://gvisor.dev",
             "id": 131212638,
             "language": "Go",
-            "last_commit": "2026-08-28T23:58:44Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:08:36Z",
+            "open_issues": 838,
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19184
+            "stars": 19186,
+            "topics": [
+              "containers",
+              "docker",
+              "kernel",
+              "kubernetes",
+              "linux",
+              "oci",
+              "sandbox"
+            ]
           },
           "title": "gVisor",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -379,12 +580,32 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Security-first, self-hosted AI agents - isolation you can prove, not just promise.",
+            "homepage": "https://ironsecco.github.io/ironclaw/",
             "id": 1271378942,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T14:55:00Z",
+            "open_issues": 19,
             "owner": "IronSecCo",
             "repo": "ironclaw",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "agent-platform",
+              "ai-agents",
+              "ai-assistant",
+              "claude",
+              "golang",
+              "gvisor",
+              "llm",
+              "mcp",
+              "open-source",
+              "personal-assistant",
+              "sandbox",
+              "security",
+              "self-hosted",
+              "supply-chain-security"
+            ]
           },
           "title": "IronClaw",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -395,12 +616,34 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "eBPF-based Networking, Security, and Observability",
+            "homepage": "https://cilium.io",
             "id": 48109239,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:19:44Z",
+            "open_issues": 1085,
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25021
+            "stars": 25022,
+            "topics": [
+              "bpf",
+              "cncf",
+              "cni",
+              "containers",
+              "ebpf",
+              "k8s",
+              "kernel",
+              "kubernetes",
+              "kubernetes-networking",
+              "loadbalancing",
+              "monitoring",
+              "networking",
+              "observability",
+              "security",
+              "troubleshooting",
+              "xdp"
+            ]
           },
           "title": "Cilium",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -414,12 +657,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "flannel is a network fabric for containers, designed for Kubernetes",
+                "homepage": null,
                 "id": 21704134,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T08:40:50Z",
+                "open_issues": 25,
                 "owner": "flannel-io",
                 "repo": "flannel",
-                "stars": 9525
+                "stars": 9525,
+                "topics": [
+                  "docker",
+                  "docker-image",
+                  "flannel",
+                  "go",
+                  "kubernetes",
+                  "network",
+                  "overlay-network",
+                  "subnet"
+                ]
               },
               "first_seen": "2026-08-28T23:59:34.028Z"
             }
@@ -434,12 +691,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "kube2iam  provides different AWS IAM roles for pods running on Kubernetes",
+            "homepage": null,
             "id": 58301572,
             "language": "HTML",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-05-08T11:59:36Z",
+            "open_issues": 14,
             "owner": "jtblin",
             "repo": "kube2iam",
-            "stars": 2042
+            "stars": 2042,
+            "topics": [
+              "aws",
+              "kubernetes"
+            ]
           },
           "title": "Kube2IAM",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -450,12 +715,31 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Static analysis from configs → Kubernetes NetworkPolicies in seconds",
+            "homepage": null,
             "id": 1161232058,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-06T07:36:28Z",
+            "open_issues": 0,
             "owner": "dormstern",
             "repo": "segspec",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "cloud-native",
+              "devsecops",
+              "golang",
+              "helm",
+              "k8s",
+              "k8s-security",
+              "kubernetes",
+              "microsegmentation",
+              "networking",
+              "networkpolicy",
+              "platform-engineering",
+              "policy-as-code",
+              "shift-left-security"
+            ]
           },
           "title": "segspec",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -469,12 +753,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Romana Project - Installation scripts, documentation, issue tracker and wiki. Start here.",
+                "homepage": null,
                 "id": 46245975,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2019-01-21T13:04:36Z",
+                "open_issues": 24,
                 "owner": "romana",
                 "repo": "romana",
-                "stars": 248
+                "stars": 248,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:34.028Z"
             }
@@ -489,12 +778,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Monitoring, visualisation & management for Docker & Kubernetes",
+            "homepage": "https://www.weave.works/oss/scope/",
             "id": 34659664,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-07T03:37:03Z",
+            "open_issues": 455,
             "owner": "weaveworks",
             "repo": "scope",
-            "stars": 5908
+            "stars": 5908,
+            "topics": [
+              "containers",
+              "docker",
+              "ecs",
+              "kubernetes",
+              "mesos",
+              "microservices",
+              "monitoring",
+              "visualization"
+            ]
           },
           "title": "Scope",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -505,12 +808,19 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Demonstrating that disabling ICC in docker does not block raw packets between containers.",
+            "homepage": null,
             "id": 122146348,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-02-21T19:52:02Z",
+            "open_issues": 0,
             "owner": "brthor",
             "repo": "docker-layer2-icc",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "docker"
+            ]
           },
           "title": "Docker Layer 2 ICC Bug",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -521,12 +831,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "CLI tool for running coding agents inside hardware-isolated microVMs",
+            "homepage": null,
             "id": 1157363528,
             "language": "Go",
-            "last_commit": "2026-08-27T20:03:50Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:04:06Z",
+            "open_issues": 13,
             "owner": "stacklok",
             "repo": "brood-box",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "ai-agents",
+              "claude-code",
+              "codex",
+              "developer-tools",
+              "microvm",
+              "sandbox",
+              "security"
+            ]
           },
           "title": "Brood Box",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -543,12 +866,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Custom & better AppArmor profile generator for Docker containers.",
+            "homepage": null,
             "id": 43922256,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-09-17T20:10:45Z",
+            "open_issues": 4,
             "owner": "genuinetools",
             "repo": "bane",
-            "stars": 1229
+            "stars": 1229,
+            "topics": [
+              "apparmor",
+              "apparmor-profile",
+              "cli",
+              "containers",
+              "docker",
+              "linux",
+              "opencontainers",
+              "security"
+            ]
           },
           "title": "bane",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -562,12 +899,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Container Coloring Book (in the style of the SELinux Coloring Book)",
+                "homepage": null,
                 "id": 31715448,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-06-28T11:50:54Z",
+                "open_issues": 3,
                 "owner": "fedoradesign",
                 "repo": "coloringbook-containers",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:34.028Z"
             }
@@ -582,12 +924,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Linux namespaces and seccomp-bpf sandbox",
+            "homepage": "https://firejail.wordpress.com",
             "id": 40418146,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-22T14:33:26Z",
+            "open_issues": 524,
             "owner": "netblue30",
             "repo": "firejail",
-            "stars": 7617
+            "stars": 7617,
+            "topics": []
           },
           "title": "Firejail",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -598,12 +945,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Low-level unprivileged sandboxing tool used by Flatpak and similar projects",
+            "homepage": null,
             "id": 51868010,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:51:29Z",
+            "open_issues": 193,
             "owner": "containers",
             "repo": "bubblewrap",
-            "stars": 8522
+            "stars": 8524,
+            "topics": [
+              "linux-containers",
+              "user-namespaces"
+            ]
           },
           "title": "Bubblewrap",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -620,12 +975,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Autonomous AI pentesting engine, continuous offensive security across web, cloud, identity, CI/CD, IaC, databases, Active Directory, Kubernetes and IoT firmware. Agentic reasoning plus real exploit execution deliver proof-based vulnerabilities. Privacy gateway: the LLM never sees your real IPs, hosts or creds, nothing leaves your perimeter.",
+            "homepage": "https://dark-moon.org/",
             "id": 894433723,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T10:02:54Z",
+            "open_issues": 3,
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 877
+            "stars": 877,
+            "topics": [
+              "active-directory",
+              "ai-agents",
+              "ai-red-team",
+              "ai-security-tool",
+              "autonomous-agents",
+              "cloud-security",
+              "firmware-security",
+              "iot-security",
+              "kubernetes",
+              "llm",
+              "local-llm",
+              "mcp",
+              "multi-agent-systems",
+              "offensive-security",
+              "penetration-testing",
+              "pentesting",
+              "red-team",
+              "security-automation",
+              "security-tools",
+              "self-hosted"
+            ]
           },
           "title": "Darkmoon",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -636,12 +1017,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A collection of scripts, and tips and tricks for hacking k8s clusters and containers.",
+            "homepage": null,
             "id": 138687551,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-10-15T19:20:49Z",
+            "open_issues": 7,
             "owner": "ProfessionallyEvil",
             "repo": "harpoon",
-            "stars": 145
+            "stars": 145,
+            "topics": []
           },
           "title": "harpoon",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -655,12 +1041,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dirty COW",
+                "homepage": "https://dirtycow.ninja",
                 "id": 71386498,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2019-08-12T18:11:46Z",
+                "open_issues": 31,
                 "owner": "dirtycow",
                 "repo": "dirtycow.github.io",
-                "stars": 3467
+                "stars": 3467,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:34.028Z"
             },
@@ -671,12 +1062,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dirtyc0w Docker POC",
+                "homepage": null,
                 "id": 73071885,
                 "language": "C",
+                "license": null,
                 "last_commit": "2016-11-07T22:35:42Z",
+                "open_issues": 0,
                 "owner": "scotty-c",
                 "repo": "dirty-cow-poc",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:34.028Z"
             }
@@ -691,12 +1087,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The Most Comprehensive Docker Security Scanner",
+            "homepage": null,
             "id": 81254815,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T19:17:53Z",
+            "open_issues": 2,
             "owner": "cr0hn",
             "repo": "dockerscan",
-            "stars": 1713
+            "stars": 1713,
+            "topics": [
+              "docker",
+              "docker-registry",
+              "hacking",
+              "registry",
+              "scan",
+              "security"
+            ]
           },
           "title": "Docker Scan",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -713,12 +1121,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Docker container running cowrie with DShield output enabled.",
+            "homepage": null,
             "id": 53887472,
             "language": "Shell",
+            "license": null,
             "last_commit": "2016-06-08T10:13:27Z",
+            "open_issues": 3,
             "owner": "xme",
             "repo": "dshield-docker",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "title": "DShield",
           "first_seen": "2026-08-28T23:59:34.028Z"
@@ -738,12 +1151,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome Object Capabilities and Capability Security",
+                "homepage": null,
                 "id": 71009117,
                 "language": "JavaScript",
+                "license": "Unlicense",
                 "last_commit": "2026-08-12T19:38:02Z",
+                "open_issues": 41,
                 "owner": "dckc",
                 "repo": "awesome-ocap",
-                "stars": 414
+                "stars": 414,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "capabilities",
+                  "capability-based",
+                  "javascript",
+                  "ocap",
+                  "ocaps",
+                  "security",
+                  "web-security"
+                ]
               },
               "first_seen": "2026-08-28T23:59:34.028Z"
             },
@@ -754,12 +1182,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Linux kernel with Capsicum support",
+                "homepage": null,
                 "id": 13300800,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2020-06-03T14:14:44Z",
+                "open_issues": 4,
                 "owner": "google",
                 "repo": "capsicum-linux",
-                "stars": 212
+                "stars": 212,
+                "topics": []
               },
               "first_seen": "2026-08-28T23:59:34.028Z"
             }
@@ -773,15 +1206,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:59:34.028Z",
+    "last_updated": "2026-08-29T04:52:13.937Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list of resources related to container security",
+      "homepage": null,
       "id": 106852574,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2026-07-28T13:57:01Z",
+      "open_issues": 1,
       "owner": "kai5263499",
       "repo": "awesome-container-security",
-      "stars": 250
+      "stars": 250,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "docker",
+        "docker-container",
+        "docker-image",
+        "hacktoberfest",
+        "security"
+      ]
     },
     "original_repository_sha": "e29a1b9a57d03cf4c0c7e5f5f699854d3e059257",
     "enhanced_repository": "enhansome/enhansome-container-security",
