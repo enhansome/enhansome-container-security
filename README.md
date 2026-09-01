@@ -1,6 +1,6 @@
 # Awesome container security with stars
 
-awesome-container-security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,695 | 🐛 105 | 📅 2026-08-21[![Travis](https://api.travis-ci.org/kai5263499/awesome-container-security.svg?branch=master)](https://travis-ci.org/kai5263499/awesome-container-security)
+awesome-container-security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,986 | 🐛 105 | 📅 2026-08-21[![Travis](https://api.travis-ci.org/kai5263499/awesome-container-security.svg?branch=master)](https://travis-ci.org/kai5263499/awesome-container-security)
 
 ***
 
@@ -78,7 +78,7 @@ A collection of container related security resources
 
 * Packer builds Docker containers without the use of Dockerfiles. By not using Dockerfiles, Packer is able to provision containers with portable scripts or configuration management systems that are not tied to Docker in any way. It also has a simple mental model: you provision containers much the same way you provision a normal virtualized or dedicated server.
 
-### [LinuxKit](https://github.com/linuxkit/linuxkit) ⭐ 8,645 | 🐛 378 | 🌐 Go | 📅 2026-06-03
+### [LinuxKit](https://github.com/linuxkit/linuxkit) ⭐ 8,646 | 🐛 378 | 🌐 Go | 📅 2026-06-03
 
 * A toolkit for building custom minimal, immutable Linux distributions
 
@@ -99,7 +99,7 @@ A collection of container related security resources
 * [anchore-cli](https://github.com/anchore/anchore-cli) ⚠️ Archived
 * Free image scanning service with a commercial offering similar to Docker Cloud
 
-### [vens](https://github.com/venslabs/vens) ⭐ 8 | 🐛 12 | 🌐 Go | 📅 2026-08-29
+### [vens](https://github.com/venslabs/vens) ⭐ 8 | 🐛 13 | 🌐 Go | 📅 2026-08-29
 
 * Prioritize vulnerabilities by real risk, not just CVSS. Takes a Trivy or Grype scan and scores each CVE based on your system's actual context.
 
@@ -137,7 +137,7 @@ A collection of container related security resources
 * [Project Atomic](https://www.projectatomic.io/) - RedHat's complete container solution with strong built-in security
 * [Docker Cloud](https://hub.docker.com) - Continuous scanning of images along with a trust mechanism
 
-- [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 130 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-31 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
+- [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 130 | 🐛 39 | 🌐 TypeScript | 📅 2026-09-01 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 
 ***
 
@@ -157,7 +157,7 @@ A collection of container related security resources
 
 * Comprehensive guide from Google engineers on securing and isolating containers
 
-### [gVisor](https://github.com/google/gvisor) ⭐ 19,205 | 🐛 866 | 🌐 Go | 📅 2026-08-31
+### [gVisor](https://github.com/google/gvisor) ⭐ 19,216 | 🐛 859 | 🌐 Go | 📅 2026-09-01
 
 * User-space kernel designed to provide better isolation/sandboxing of containers
 
@@ -165,7 +165,7 @@ A collection of container related security resources
 
 * gVisor-isolated runtime that sandboxes AI agent tool-calls, with an approval gateway, encrypted task queues, and signed, attested builds
 
-### [Cilium](https://github.com/cilium/cilium) ⭐ 25,033 | 🐛 1,089 | 🌐 Go | 📅 2026-08-31
+### [Cilium](https://github.com/cilium/cilium) ⭐ 25,037 | 🐛 1,080 | 🌐 Go | 📅 2026-09-01
 
 * Network policy enforcement based on eBPF
 * [Cilium - Container Security and Networking Using BPF and XDP - Thomas Graf, Covalent](https://www.youtube.com/watch?v=CcGtDMm1SJA) - Presentation of Cilium by its creator
@@ -176,7 +176,7 @@ A collection of container related security resources
 
 ### [Calico](https://www.projectcalico.org/)
 
-* Security enforcement for [Flannel](https://github.com/coreos/flannel) ⭐ 9,529 | 🐛 24 | 🌐 Go | 📅 2026-08-31 SDN
+* Security enforcement for [Flannel](https://github.com/coreos/flannel) ⭐ 9,531 | 🐛 24 | 🌐 Go | 📅 2026-08-31 SDN
 
 ### [Kube2IAM](https://github.com/jtblin/kube2iam) ⭐ 2,042 | 🐛 14 | 🌐 HTML | 📅 2026-05-08
 
@@ -242,7 +242,7 @@ A collection of container related security resources
 
 ### [SELinux is no Longer an Option](https://www.youtube.com/watch?v=dtclmj3H7ZU)
 
-### [Firejail](https://github.com/netblue30/firejail) ⭐ 7,622 | 🐛 523 | 🌐 C | 📅 2026-08-30
+### [Firejail](https://github.com/netblue30/firejail) ⭐ 7,621 | 🐛 524 | 🌐 C | 📅 2026-09-01
 
 * Linux namespaces and seccomp-bpf sandbox. Also works with GUI apps
 
@@ -270,7 +270,7 @@ A collection of container related security resources
 
 ### [Getting towards real sandbox containers](https://blog.jessfraz.com/post/getting-towards-real-sandbox-containers/)
 
-### [Bubblewrap](https://github.com/containers/bubblewrap) ⭐ 8,550 | 🐛 193 | 🌐 C | 📅 2026-08-29
+### [Bubblewrap](https://github.com/containers/bubblewrap) ⭐ 8,558 | 🐛 192 | 🌐 C | 📅 2026-09-01
 
 ### [Subgraph](https://subgraph.com/)
 
@@ -290,7 +290,7 @@ A collection of container related security resources
 
 * From the intro: "We've been tracking an organized attack campaign that targets misconfigured open Docker Daemon API ports. This persistent campaign has been going on for months, with thousands of attempts taking place nearly on a daily basis."
 
-### [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 883 | 🐛 2 | 🌐 Python | 📅 2026-08-29
+### [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 885 | 🐛 2 | 🌐 Python | 📅 2026-08-29
 
 * Open-source autonomous AI pentest platform with offensive coverage of containers and Kubernetes, orchestrating 80+ tools with an evidence trail per finding
 
@@ -310,7 +310,7 @@ A collection of container related security resources
 
 ### [Dirty COW](https://dirtycow.ninja/)
 
-* [Proof of concept collection](https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs) ⭐ 3,467 | 🐛 31 | 🌐 HTML | 📅 2019-08-12
+* [Proof of concept collection](https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs) ⭐ 3,468 | 🐛 31 | 🌐 HTML | 📅 2019-08-12
 * [Proof of concept](https://github.com/scotty-c/dirty-cow-poc) ⭐ 14 | 🐛 0 | 🌐 C | 📅 2016-11-07
 * CVE-2016-5195
 * Privilege escalation vulnerability in Linux kernel
@@ -324,7 +324,7 @@ A collection of container related security resources
 
 * Outlines an interesting spear-phishing attack on image maintainers
 
-### [Docker Scan](https://github.com/cr0hn/dockerscan) ⭐ 1,714 | 🐛 2 | 🌐 Go | 📅 2026-08-31
+### [Docker Scan](https://github.com/cr0hn/dockerscan) ⭐ 1,716 | 🐛 2 | 🌐 Go | 📅 2026-09-01
 
 * Image scanning system with a red-team focus of exploitation
 
@@ -425,4 +425,4 @@ A collection of container related security resources
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
