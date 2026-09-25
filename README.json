@@ -18,7 +18,7 @@
             "open_issues": 144,
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5320,
+            "stars": 5321,
             "topics": [
               "cloud-native",
               "cloudsecurity",
@@ -90,7 +90,7 @@
                 "open_issues": 1,
                 "owner": "target",
                 "repo": "portauthority",
-                "stars": 151,
+                "stars": 152,
                 "topics": [
                   "clair",
                   "docker-image",
@@ -190,7 +190,7 @@
             "open_issues": 6,
             "owner": "diogomonica",
             "repo": "actuary",
-            "stars": 83,
+            "stars": 84,
             "topics": []
           },
           "title": "Actuary",
@@ -207,11 +207,11 @@
             "id": 80134675,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T14:54:12Z",
-            "open_issues": 280,
+            "last_commit": "2026-09-25T00:18:48Z",
+            "open_issues": 279,
             "owner": "podman-container-tools",
             "repo": "buildah",
-            "stars": 9032,
+            "stars": 9035,
             "topics": [
               "container",
               "container-image",
@@ -240,7 +240,7 @@
             "open_issues": 375,
             "owner": "linuxkit",
             "repo": "linuxkit",
-            "stars": 8652,
+            "stars": 8654,
             "topics": [
               "cloud",
               "containers",
@@ -359,7 +359,7 @@
             "open_issues": 16,
             "owner": "venslabs",
             "repo": "vens",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "cvss",
               "grype",
@@ -437,7 +437,7 @@
             "open_issues": 0,
             "owner": "HimitsuShell",
             "repo": "HimitsuShell",
-            "stars": 41,
+            "stars": 45,
             "topics": [
               "bash",
               "compiler",
@@ -471,11 +471,11 @@
                 "id": 1135473716,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T18:20:07Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-25T17:27:50Z",
+                "open_issues": 11,
                 "owner": "kubestellar",
                 "repo": "console",
-                "stars": 138,
+                "stars": 139,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:34.028Z"
@@ -556,11 +556,11 @@
             "id": 131212638,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T18:46:58Z",
-            "open_issues": 849,
+            "last_commit": "2026-09-25T19:05:07Z",
+            "open_issues": 844,
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19414,
+            "stars": 19419,
             "topics": [
               "containers",
               "docker",
@@ -621,11 +621,11 @@
             "id": 48109239,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T17:20:32Z",
-            "open_issues": 1102,
+            "last_commit": "2026-09-25T18:12:02Z",
+            "open_issues": 1101,
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25529,
+            "stars": 25554,
             "topics": [
               "bpf",
               "cncf",
@@ -666,7 +666,7 @@
                 "open_issues": 22,
                 "owner": "flannel-io",
                 "repo": "flannel",
-                "stars": 9547,
+                "stars": 9548,
                 "topics": [
                   "docker",
                   "docker-image",
@@ -836,11 +836,11 @@
             "id": 1157363528,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T00:42:54Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-25T15:13:48Z",
+            "open_issues": 10,
             "owner": "stacklok",
             "repo": "brood-box",
-            "stars": 74,
+            "stars": 75,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -933,7 +933,7 @@
             "open_issues": 527,
             "owner": "netblue30",
             "repo": "firejail",
-            "stars": 7667,
+            "stars": 7670,
             "topics": []
           },
           "title": "Firejail",
@@ -950,11 +950,11 @@
             "id": 51868010,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-22T11:37:59Z",
-            "open_issues": 198,
+            "last_commit": "2026-09-25T18:27:32Z",
+            "open_issues": 196,
             "owner": "containers",
             "repo": "bubblewrap",
-            "stars": 8822,
+            "stars": 8836,
             "topics": [
               "linux-containers",
               "user-namespaces"
@@ -975,16 +975,16 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
-            "description": "Open source autonomous AI penetration testing platform. 50+ specialist agents for AI security testing across web, API, cloud, Active Directory, Kubernetes, IoT firmware, CI/CD and AI/LLM endpoints (OWASP LLM Top 10). Real exploits with proof, on a local LLM. Privacy Gateway keeps real IPs, hosts and credentials on your perimeter.",
+            "description": "Open-source autonomous AI penetration testing. 50 specialist agents across web, API, cloud, Active Directory, Kubernetes, CI/CD and AI/LLM (OWASP LLM Top 10). Runs on a local LLM behind a Privacy Gateway. Integrates with GitHub, GitLab, Jenkins, VS Code, JetBrains, n8n, Grafana & Splunk.",
             "homepage": "https://dark-moon.org/",
             "id": 894433723,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T10:28:14Z",
+            "last_commit": "2026-09-25T15:55:56Z",
             "open_issues": 3,
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 968,
+            "stars": 970,
             "topics": [
               "active-directory",
               "ai-penetration-testing",
@@ -1050,7 +1050,7 @@
                 "open_issues": 31,
                 "owner": "dirtycow",
                 "repo": "dirtycow.github.io",
-                "stars": 3465,
+                "stars": 3466,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:34.028Z"
@@ -1092,11 +1092,11 @@
             "id": 81254815,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T12:35:14Z",
+            "last_commit": "2026-09-25T12:29:02Z",
             "open_issues": 4,
             "owner": "cr0hn",
             "repo": "dockerscan",
-            "stars": 1719,
+            "stars": 1720,
             "topics": [
               "docker",
               "docker-registry",
@@ -1206,7 +1206,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T19:01:25.052Z",
+    "last_updated": "2026-09-25T19:12:34.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of resources related to container security",
