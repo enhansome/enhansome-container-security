@@ -18,7 +18,7 @@
             "open_issues": 144,
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5321,
+            "stars": 5320,
             "topics": [
               "cloud-native",
               "cloudsecurity",
@@ -207,11 +207,11 @@
             "id": 80134675,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T00:18:48Z",
+            "last_commit": "2026-09-25T22:39:35Z",
             "open_issues": 279,
             "owner": "podman-container-tools",
             "repo": "buildah",
-            "stars": 9035,
+            "stars": 9037,
             "topics": [
               "container",
               "container-image",
@@ -240,7 +240,7 @@
             "open_issues": 375,
             "owner": "linuxkit",
             "repo": "linuxkit",
-            "stars": 8654,
+            "stars": 8653,
             "topics": [
               "cloud",
               "containers",
@@ -355,8 +355,8 @@
             "id": 1090379351,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T14:57:46Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-26T09:41:20Z",
+            "open_issues": 19,
             "owner": "venslabs",
             "repo": "vens",
             "stars": 14,
@@ -415,6 +415,41 @@
           },
           "title": "Banyan Collector: A framework to peek inside containers",
           "first_seen": "2026-08-28T23:59:34.028Z"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Reference admission rails for agent execution evidence: four policy engines, each declaring per obligation what it enforces, approximates, or cannot reach.",
+            "homepage": null,
+            "id": 1366347342,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-26T13:29:16Z",
+            "open_issues": 0,
+            "owner": "probityai",
+            "repo": "agent-evidence-admission",
+            "stars": 1,
+            "topics": [
+              "admission-control",
+              "ai-agents",
+              "attestation",
+              "conformance-testing",
+              "cue",
+              "in-toto",
+              "kubernetes",
+              "kyverno",
+              "open-policy-agent",
+              "policy-as-code",
+              "rego",
+              "sigstore",
+              "supply-chain-security"
+            ]
+          },
+          "title": "Agent Evidence Admission",
+          "first_seen": "2026-09-26T18:29:41.852Z"
         }
       ],
       "title": "Image"
@@ -437,7 +472,7 @@
             "open_issues": 0,
             "owner": "HimitsuShell",
             "repo": "HimitsuShell",
-            "stars": 45,
+            "stars": 47,
             "topics": [
               "bash",
               "compiler",
@@ -471,7 +506,7 @@
                 "id": 1135473716,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T17:27:50Z",
+                "last_commit": "2026-09-26T17:56:04Z",
                 "open_issues": 11,
                 "owner": "kubestellar",
                 "repo": "console",
@@ -556,11 +591,11 @@
             "id": 131212638,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T19:05:07Z",
-            "open_issues": 844,
+            "last_commit": "2026-09-26T04:45:44Z",
+            "open_issues": 851,
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19419,
+            "stars": 19422,
             "topics": [
               "containers",
               "docker",
@@ -621,11 +656,11 @@
             "id": 48109239,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T18:12:02Z",
-            "open_issues": 1101,
+            "last_commit": "2026-09-26T10:32:07Z",
+            "open_issues": 1095,
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25554,
+            "stars": 25557,
             "topics": [
               "bpf",
               "cncf",
@@ -933,7 +968,7 @@
             "open_issues": 527,
             "owner": "netblue30",
             "repo": "firejail",
-            "stars": 7670,
+            "stars": 7671,
             "topics": []
           },
           "title": "Firejail",
@@ -951,10 +986,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-25T18:27:32Z",
-            "open_issues": 196,
+            "open_issues": 197,
             "owner": "containers",
             "repo": "bubblewrap",
-            "stars": 8836,
+            "stars": 8843,
             "topics": [
               "linux-containers",
               "user-namespaces"
@@ -984,7 +1019,7 @@
             "open_issues": 3,
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 970,
+            "stars": 971,
             "topics": [
               "active-directory",
               "ai-penetration-testing",
@@ -1092,7 +1127,7 @@
             "id": 81254815,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T12:29:02Z",
+            "last_commit": "2026-09-26T12:00:10Z",
             "open_issues": 4,
             "owner": "cr0hn",
             "repo": "dockerscan",
@@ -1154,9 +1189,9 @@
                 "description": "Awesome Object Capabilities and Capability Security",
                 "homepage": null,
                 "id": 71009117,
-                "language": "JavaScript",
+                "language": "Python",
                 "license": "Unlicense",
-                "last_commit": "2026-09-20T03:03:48Z",
+                "last_commit": "2026-09-26T03:55:43Z",
                 "open_issues": 43,
                 "owner": "dckc",
                 "repo": "awesome-ocap",
@@ -1206,7 +1241,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T19:12:34.788Z",
+    "last_updated": "2026-09-26T18:29:41.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of resources related to container security",
@@ -1214,7 +1249,7 @@
       "id": 106852574,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-08-29T16:18:56Z",
+      "last_commit": "2026-09-25T22:21:58Z",
       "open_issues": 1,
       "owner": "kai5263499",
       "repo": "awesome-container-security",
@@ -1229,7 +1264,7 @@
         "security"
       ]
     },
-    "original_repository_sha": "5d69b37482d8b0b626888ff09b8b6cc11cc97dce",
+    "original_repository_sha": "bea4f45d9a2b42263d993536ae47c9db6c767e2b",
     "enhanced_repository": "enhansome/enhansome-container-security",
     "enhanced_repository_description": null,
     "title": "Awesome container security with stars"
