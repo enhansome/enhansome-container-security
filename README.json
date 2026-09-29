@@ -59,7 +59,7 @@
             "open_issues": 25,
             "owner": "eliasgranderubio",
             "repo": "dagda",
-            "stars": 1250,
+            "stars": 1251,
             "topics": [
               "detecting-anomalous-activities",
               "docker",
@@ -211,7 +211,7 @@
             "open_issues": 277,
             "owner": "podman-container-tools",
             "repo": "buildah",
-            "stars": 9042,
+            "stars": 9046,
             "topics": [
               "container",
               "container-image",
@@ -450,6 +450,34 @@
           },
           "title": "Agent Evidence Admission",
           "first_seen": "2026-09-26T18:29:41.852Z"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "description": "Check an exported OCI manifest digest and signed claims against an offline trust policy.",
+            "homepage": "https://edilec.com/blog/clodev-11035/build-provenance-attestations-delivery-workflow/",
+            "id": 1363722154,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-28T14:44:57Z",
+            "open_issues": 0,
+            "owner": "edilec",
+            "repo": "container-image-provenance-checker",
+            "stars": 0,
+            "topics": [
+              "cli",
+              "container-security",
+              "nodejs",
+              "oci",
+              "provenance",
+              "supply-chain-security"
+            ]
+          },
+          "title": "Container Image Provenance Checker",
+          "first_seen": "2026-09-29T19:55:52.095Z"
         }
       ],
       "title": "Image"
@@ -472,7 +500,7 @@
             "open_issues": 0,
             "owner": "HimitsuShell",
             "repo": "HimitsuShell",
-            "stars": 53,
+            "stars": 55,
             "topics": [
               "bash",
               "compiler",
@@ -506,11 +534,11 @@
                 "id": 1135473716,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T16:07:51Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-29T05:49:27Z",
+                "open_issues": 6,
                 "owner": "kubestellar",
                 "repo": "console",
-                "stars": 140,
+                "stars": 141,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:34.028Z"
@@ -591,11 +619,11 @@
             "id": 131212638,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T21:11:02Z",
-            "open_issues": 866,
+            "last_commit": "2026-09-29T19:45:10Z",
+            "open_issues": 860,
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19444,
+            "stars": 19455,
             "topics": [
               "containers",
               "docker",
@@ -620,8 +648,8 @@
             "id": 1271378942,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-28T14:40:05Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-28T22:23:33Z",
+            "open_issues": 13,
             "owner": "IronSecCo",
             "repo": "ironclaw",
             "stars": 19,
@@ -656,11 +684,11 @@
             "id": 48109239,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T20:44:05Z",
-            "open_issues": 1104,
+            "last_commit": "2026-09-29T14:22:42Z",
+            "open_issues": 1111,
             "owner": "cilium",
             "repo": "cilium",
-            "stars": 25570,
+            "stars": 25576,
             "topics": [
               "bpf",
               "cncf",
@@ -697,11 +725,11 @@
                 "id": 21704134,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T08:33:15Z",
-                "open_issues": 23,
+                "last_commit": "2026-09-29T15:05:54Z",
+                "open_issues": 20,
                 "owner": "flannel-io",
                 "repo": "flannel",
-                "stars": 9549,
+                "stars": 9548,
                 "topics": [
                   "docker",
                   "docker-image",
@@ -822,7 +850,7 @@
             "open_issues": 455,
             "owner": "weaveworks",
             "repo": "scope",
-            "stars": 5910,
+            "stars": 5911,
             "topics": [
               "containers",
               "docker",
@@ -875,7 +903,7 @@
             "open_issues": 10,
             "owner": "stacklok",
             "repo": "brood-box",
-            "stars": 75,
+            "stars": 76,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -910,7 +938,7 @@
             "open_issues": 4,
             "owner": "genuinetools",
             "repo": "bane",
-            "stars": 1230,
+            "stars": 1231,
             "topics": [
               "apparmor",
               "apparmor-profile",
@@ -968,7 +996,7 @@
             "open_issues": 527,
             "owner": "netblue30",
             "repo": "firejail",
-            "stars": 7675,
+            "stars": 7677,
             "topics": []
           },
           "title": "Firejail",
@@ -986,10 +1014,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-25T18:27:32Z",
-            "open_issues": 197,
+            "open_issues": 199,
             "owner": "containers",
             "repo": "bubblewrap",
-            "stars": 8861,
+            "stars": 8870,
             "topics": [
               "linux-containers",
               "user-namespaces"
@@ -1019,7 +1047,7 @@
             "open_issues": 2,
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 975,
+            "stars": 977,
             "topics": [
               "active-directory",
               "ai-penetration-testing",
@@ -1127,11 +1155,11 @@
             "id": 81254815,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-28T14:49:27Z",
+            "last_commit": "2026-09-29T13:39:14Z",
             "open_issues": 4,
             "owner": "cr0hn",
             "repo": "dockerscan",
-            "stars": 1721,
+            "stars": 1724,
             "topics": [
               "docker",
               "docker-registry",
@@ -1241,7 +1269,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T21:11:32.829Z",
+    "last_updated": "2026-09-29T19:55:52.095Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of resources related to container security",
@@ -1249,8 +1277,8 @@
       "id": 106852574,
       "language": null,
       "license": "Apache-2.0",
-      "last_commit": "2026-09-25T22:21:58Z",
-      "open_issues": 2,
+      "last_commit": "2026-09-29T13:03:27Z",
+      "open_issues": 1,
       "owner": "kai5263499",
       "repo": "awesome-container-security",
       "stars": 252,
@@ -1264,7 +1292,7 @@
         "security"
       ]
     },
-    "original_repository_sha": "bea4f45d9a2b42263d993536ae47c9db6c767e2b",
+    "original_repository_sha": "f0af9e9ddf5d394d2aa4c23a9b57f1404693af16",
     "enhanced_repository": "enhansome/enhansome-container-security",
     "enhanced_repository_description": null,
     "title": "Awesome container security with stars"
