@@ -77,7 +77,7 @@
             {
               "node_type": "item",
               "title": "target/portauthority",
-              "description": null,
+              "description": "target/portauthority",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -237,7 +237,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-22T07:55:43Z",
-            "open_issues": 376,
+            "open_issues": 377,
             "owner": "linuxkit",
             "repo": "linuxkit",
             "stars": 8653,
@@ -321,7 +321,7 @@
             {
               "node_type": "item",
               "title": "anchore-cli",
-              "description": null,
+              "description": "anchore/anchore-cli",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -355,8 +355,8 @@
             "id": 1090379351,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T09:38:55Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-02T21:38:34Z",
+            "open_issues": 20,
             "owner": "venslabs",
             "repo": "vens",
             "stars": 15,
@@ -500,7 +500,7 @@
             "open_issues": 0,
             "owner": "HimitsuShell",
             "repo": "HimitsuShell",
-            "stars": 64,
+            "stars": 65,
             "topics": [
               "bash",
               "compiler",
@@ -533,7 +533,7 @@
                 "id": 1135473716,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T16:18:58Z",
+                "last_commit": "2026-10-03T04:21:51Z",
                 "open_issues": 5,
                 "owner": "kubestellar",
                 "repo": "console",
@@ -618,11 +618,11 @@
             "id": 131212638,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T19:31:49Z",
-            "open_issues": 873,
+            "last_commit": "2026-10-03T04:09:04Z",
+            "open_issues": 866,
             "owner": "google",
             "repo": "gvisor",
-            "stars": 19477,
+            "stars": 19482,
             "topics": [
               "containers",
               "docker",
@@ -683,8 +683,8 @@
             "id": 48109239,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T19:06:55Z",
-            "open_issues": 1110,
+            "last_commit": "2026-10-02T23:06:30Z",
+            "open_issues": 1108,
             "owner": "cilium",
             "repo": "cilium",
             "stars": 25592,
@@ -811,7 +811,7 @@
             {
               "node_type": "item",
               "title": "romana/romana",
-              "description": null,
+              "description": "romana/romana",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -824,7 +824,7 @@
                 "open_issues": 24,
                 "owner": "romana",
                 "repo": "romana",
-                "stars": 248,
+                "stars": 247,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:34.028Z"
@@ -902,7 +902,7 @@
             "open_issues": 12,
             "owner": "stacklok",
             "repo": "brood-box",
-            "stars": 76,
+            "stars": 75,
             "topics": [
               "ai-agents",
               "claude-code",
@@ -957,7 +957,7 @@
             {
               "node_type": "item",
               "title": "The Container Coloring Book",
-              "description": null,
+              "description": "fedoradesign/coloringbook-containers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1016,7 +1016,7 @@
             "open_issues": 201,
             "owner": "containers",
             "repo": "bubblewrap",
-            "stars": 8907,
+            "stars": 8910,
             "topics": [
               "linux-containers",
               "user-namespaces"
@@ -1046,7 +1046,7 @@
             "open_issues": 2,
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 989,
+            "stars": 990,
             "topics": [
               "active-directory",
               "ai-penetration-testing",
@@ -1099,7 +1099,7 @@
             {
               "node_type": "item",
               "title": "Proof of concept collection",
-              "description": null,
+              "description": "dirtycow/dirtycow.github.io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1112,7 +1112,7 @@
                 "open_issues": 31,
                 "owner": "dirtycow",
                 "repo": "dirtycow.github.io",
-                "stars": 3467,
+                "stars": 3466,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:59:34.028Z"
@@ -1120,7 +1120,7 @@
             {
               "node_type": "item",
               "title": "Proof of concept",
-              "description": null,
+              "description": "scotty-c/dirty-cow-poc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1268,7 +1268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:51:58.166Z",
+    "last_updated": "2026-10-03T04:37:34.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of resources related to container security",
